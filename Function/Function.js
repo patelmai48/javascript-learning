@@ -6,7 +6,6 @@
 // of the function but if you use return statment inside the function then you have to use console.log outside the function to get the o/p of the function.
 
 
-
 //  1. simple fuction
 // function dayofweek(day){
 //     console.log("Today is Monday");
@@ -165,3 +164,12 @@ console.log("your grades is "+ grades(67));
 console.log("your grades is "+ grades(86));
 console.log("your grades is "+ grades(54));
 console.log("your grades is "+ grades(-1));
+
+
+
+// From now on
+// Whenever you practice more JavaScript:
+// git add .
+// git commit -m "practice: add JavaScript exercises"
+// git push
+
